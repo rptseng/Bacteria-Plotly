@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("../assets/bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    }
+  body{
+    background-color: #d4d4d4;
+
+    
+  }
