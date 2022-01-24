@@ -1,6 +1,7 @@
 # Bacteria-Plotly
 ## Deliverable 1 = Bar Chart
 Created code to make a Plotly bar chart with JavaScript that displays the top 10 Bacterial Cultures and sorts them in descending order per test subject
+
 ![bar.png](https://github.com/rptseng/Bacteria-Plotly/blob/main/static/assets/bar.png)
 
 ## Deliverable 2 - Bubble Chart
